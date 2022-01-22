@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @robillanes
+- Dad, railway engineer, aerospace & tech geek.
+- Helping to make @CaHSRA a reality. 
+- @Apple evangelist since 1989.
+- (re)learning to code with #cs50x
